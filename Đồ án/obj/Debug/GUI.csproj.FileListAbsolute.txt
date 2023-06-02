@@ -1,0 +1,29 @@
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\Đồ án.exe.config
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\Đồ án.exe
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\Đồ án.pdb
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ án.exe
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ án.pdb
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\BUS.dll
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\DTO.dll
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\BUS.pdb
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\DTO.pdb
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\GUI.csproj.CopyComplete
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_DangNhap.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_Main.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\DAL.dll
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\bin\Debug\DAL.pdb
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_SanPham.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_QuanLyNhanVien.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_QuanLyKhachHang.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_NhaCC.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_HoaDonNhap.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_HoaDonXuat.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_CTHoaDonNhap.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_CTHoaDonXuat.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_MainNV.resources
+E:\ĐỒ ÁN 1\Đồ án\Đồ án\obj\Debug\Đồ_án.GUI_ThongKe.resources

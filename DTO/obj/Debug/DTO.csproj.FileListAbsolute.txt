@@ -1,0 +1,6 @@
+E:\ĐỒ ÁN 1\Đồ án\DTO\bin\Debug\DTO.dll
+E:\ĐỒ ÁN 1\Đồ án\DTO\bin\Debug\DTO.pdb
+E:\ĐỒ ÁN 1\Đồ án\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\ĐỒ ÁN 1\Đồ án\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN 1\Đồ án\DTO\obj\Debug\DTO.dll
+E:\ĐỒ ÁN 1\Đồ án\DTO\obj\Debug\DTO.pdb
